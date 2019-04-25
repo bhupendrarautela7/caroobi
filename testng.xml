@@ -1,0 +1,7 @@
+<suite name="caroobi">
+	<test name="testngTest">
+		<classes>
+			<class name="Homepage" />
+		</classes>
+	</test>
+</suite>
